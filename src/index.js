@@ -12,15 +12,15 @@ const root = createRoot(rootElement);
 root.render(
   <React.StrictMode>
     <BrowserRouter> 
-      <Auth0ProviderWithNavigate
+      {/* <Auth0ProviderWithNavigate
         domain={domain}
         clientId={clientId}
         authorizationParams={{
           redirect_uri: "http://localhost:3000/"
         }}
-      >
+      > */}
         <App />
-      </Auth0ProviderWithNavigate>
+      {/* </Auth0ProviderWithNavigate> */}
     </BrowserRouter>
   </React.StrictMode>
 );

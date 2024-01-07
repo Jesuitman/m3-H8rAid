@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Routes, Route, useNavigate, Navigate, useLocation, Link } from 'react-router-dom';
 import WikipediaSearch from '../Search/Search.js';
-import { useAuth0 } from "@auth0/auth0-react";
-import { NavBarButtons } from '../Main/Main.js';
+// import { useAuth0 } from "@auth0/auth0-react"; // Commented out useAuth0 import
+// import { NavBarButtons } from '../Main/Main.js';
 import './App.css';
 import Card from '../Card/Card.js';
 import useSearchResults from '../hooks/useSearchResults.js';
@@ -10,9 +10,11 @@ import Profile from '../UserView/UserView.js';
 import ErrorBoundary from '../Errors/ErrorBoundary.js';
 
 function App() {
-  const { isLoading, isAuthenticated } = useAuth0();
-  const navigate = useNavigate()
-  const location = useLocation()
+  const [isLoading] = useState(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(false); // State to track authentication
+
+  const navigate = useNavigate();
+  const location = useLocation();
   const showRandomControversy = location.pathname !== '/profile';
   const [savedControversies, setSavedControversies] = useState([]);
 
@@ -22,7 +24,7 @@ function App() {
   const randomSearch = () => {
     const randomIndex = Math.floor(Math.random() * randomSearchInputs.length);
     triggerSearch(randomSearchInputs[randomIndex]);
-  }
+  };
 
   const saveControversy = (snippetToShow, isFavorite = false) => {
     const controversyObject = {
@@ -35,6 +37,14 @@ function App() {
   useEffect(() => {
     randomSearch();
   }, []);
+
+  const handleLogin = () => {
+    setIsAuthenticated(true); // Set isAuthenticated to true on login button click
+  };
+
+  const handleLogout = () => {
+    setIsAuthenticated(false); // Set isAuthenticated to false on logout button click
+  };
 
   if (isLoading) {
     return (
@@ -52,10 +62,19 @@ function App() {
             <h1 className='header-text'>H8rAid!</h1>
           </Link>
           {isAuthenticated && <button id='profile' onClick={() => navigate("/profile")}>Profile</button>}
-          <NavBarButtons />
+          {/* <NavBarButtons /> */}
+          {!isAuthenticated ? (
+            <button className="button__login" onClick={handleLogin}>
+              Log In
+            </button>
+          ) : (
+            <button className="button__logout" onClick={handleLogout}>
+              Log Out
+            </button>
+          )}
         </header>
         <Routes>
-          <Route path='/' element={<WikipediaSearch savedControversies={savedControversies} saveControversy={saveControversy} />} />
+        <Route path='/' element={<WikipediaSearch isAuthenticated={isAuthenticated} savedControversies={savedControversies} saveControversy={saveControversy} />} />
           <Route path='/main' element={<Navigate to='/' />} />
           <Route path='/profile' element={<Profile savedControversies={savedControversies} />} />
           <Route path="article/:id" element={<WikipediaSearch />} />

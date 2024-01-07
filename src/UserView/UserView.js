@@ -21,8 +21,8 @@ const Profile = ({ savedControversies }) => {
   return (
     <div className="profile">
       <div className="filter-buttons">
-        <button onClick={handleShowAll}>Show All</button>
-        <button onClick={handleShowFavorites}>Show Favorites</button>
+        <button class="show-all"onClick={handleShowAll}>Show All</button>
+        <button class="show-favorites"onClick={handleShowFavorites}>Show Favorites</button>
       </div>
       <h2 className='random-headline'>Saved Controversies</h2>
       <div>
