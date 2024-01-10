@@ -1,18 +1,105 @@
+
 {
+  "batchcomplete": "",
+  "continue": {
+      "sroffset": 10,
+      "continue": "-||"
+  },
   "query": {
-    "search": [
-      {
-        "title": "Example Title 1",
-        "snippet": "This is an example snippet for the first result."
+      "searchinfo": {
+          "totalhits": 1266
       },
-      {
-        "title": "Example Title 2",
-        "snippet": "Another example snippet for the second result."
-      },
-      {
-        "title": "Example Title 3",
-        "snippet": "Another example snippet for the third result."
-      }
-    ]
+      "search": [
+          {
+              "ns": 0,
+              "title": "Rush Limbaugh",
+              "pageid": 25427,
+              "size": 198814,
+              "wordcount": 17833,
+              "snippet": "<span class=\"searchmatch\">Rush</span> Hudson <span class=\"searchmatch\">Limbaugh</span> III (/ˈlɪmbɔː/ LIM-baw; January 12, 1951 – February 17, 2021) was an American conservative political commentator who was the host",
+              "timestamp": "2024-01-03T23:34:07Z"
+          },
+          {
+              "ns": 0,
+              "title": "The Rush Limbaugh Show",
+              "pageid": 1769439,
+              "size": 88167,
+              "wordcount": 8552,
+              "snippet": "<span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span> Show was an American conservative talk radio show hosted by <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span>. Since its nationally syndicated premiere in 1988, The <span class=\"searchmatch\">Rush</span> Limbaugh",
+              "timestamp": "2023-12-07T00:21:46Z"
+          },
+          {
+              "ns": 0,
+              "title": "Rush Limbaugh Sr.",
+              "pageid": 10306414,
+              "size": 7772,
+              "wordcount": 662,
+              "snippet": "<span class=\"searchmatch\">Rush</span> Hudson <span class=\"searchmatch\">Limbaugh</span> I (September 27, 1891 – April 8, 1996) was an American legislator, and ambassador. His legal career spanned nearly 80 years, and he",
+              "timestamp": "2023-08-12T19:22:48Z"
+          },
+          {
+              "ns": 0,
+              "title": "Rush Limbaugh–Sandra Fluke controversy",
+              "pageid": 34968686,
+              "size": 63855,
+              "wordcount": 5780,
+              "snippet": "The <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span>–Sandra Fluke controversy began on February 29, 2012, when American conservative talk-show host <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh's</span> broadcast remarks about",
+              "timestamp": "2023-08-15T15:14:46Z"
+          },
+          {
+              "ns": 0,
+              "title": "Limbaugh family",
+              "pageid": 1263533,
+              "size": 4854,
+              "wordcount": 531,
+              "snippet": " The most well-known member is former conservative talk radio host <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span>. The first family member in America, Georg Friedrich Limbach was born",
+              "timestamp": "2023-12-21T12:01:27Z"
+          },
+          {
+              "ns": 0,
+              "title": "Feminazi",
+              "pageid": 25470,
+              "size": 17812,
+              "wordcount": 1849,
+              "snippet": "popularized by politically conservative American radio talk show host <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span>. Feminazi is a portmanteau of the nouns feminist and Nazi. According",
+              "timestamp": "2023-10-02T23:47:49Z"
+          },
+          {
+              "ns": 0,
+              "title": "Conservative talk radio",
+              "pageid": 18624040,
+              "size": 26548,
+              "wordcount": 3078,
+              "snippet": "In the United States, the format has included personalities such as <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span>, Mark Levin, Glenn Beck, Ben Shapiro, Sean Hannity, Charlie Kirk, Michael",
+              "timestamp": "2023-11-25T17:18:32Z"
+          },
+          {
+              "ns": 0,
+              "title": "The Pat Sajak Show",
+              "pageid": 10161764,
+              "size": 13677,
+              "wordcount": 1520,
+              "snippet": "before The Pat Sajak Show was canceled, on March 30, 1990, radio host <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span> made headlines when he guest hosted the program, and, in a departure",
+              "timestamp": "2023-12-05T23:59:57Z"
+          },
+          {
+              "ns": 0,
+              "title": "Mannheim Steamroller",
+              "pageid": 582787,
+              "size": 27051,
+              "wordcount": 1712,
+              "snippet": "Steamroller's Christmas music caught the ear of conservative talk radio host <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span> when it was used as bumper music for football games toward the end of",
+              "timestamp": "2023-12-30T01:26:15Z"
+          },
+          {
+              "ns": 0,
+              "title": "Sandra Fluke",
+              "pageid": 35019767,
+              "size": 26704,
+              "wordcount": 2516,
+              "snippet": "February 29, 2012, radio host <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span> referred to Fluke's testimony to House Democrats on his show, The <span class=\"searchmatch\">Rush</span> <span class=\"searchmatch\">Limbaugh</span> Show, calling Fluke a &quot;slut&quot;",
+              "timestamp": "2023-09-27T01:02:15Z"
+          }
+      ]
   }
 }

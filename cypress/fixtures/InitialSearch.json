@@ -1,0 +1,106 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "sroffset": 10,
+        "continue": "-||"
+    },
+    "query": {
+        "searchinfo": {
+            "totalhits": 998,
+            "suggestion": "chan",
+            "suggestionsnippet": "chan"
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "4chan",
+                "pageid": 12561015,
+                "size": 154562,
+                "wordcount": 14021,
+                "snippet": "<span class=\"searchmatch\">4chan</span> is an anonymous English-language imageboard website. Launched by Christopher &quot;moot&quot; Poole in October 2003, the site hosts boards dedicated to a",
+                "timestamp": "2023-12-26T16:33:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "/pol/",
+                "pageid": 47045163,
+                "size": 72220,
+                "wordcount": 6783,
+                "snippet": "&quot;Politically Incorrect&quot;, is an anonymous political discussion imageboard on <span class=\"searchmatch\">4chan</span>. As of 2022, it is the most active board on the site. It has had a substantial",
+                "timestamp": "2023-12-18T12:01:41Z"
+            },
+            {
+                "ns": 0,
+                "title": "Christopher Poole",
+                "pageid": 18395608,
+                "size": 18449,
+                "wordcount": 1438,
+                "snippet": "entrepreneur and developer. He founded the anonymous English-language imageboard <span class=\"searchmatch\">4chan</span> in October 2003, when he was still a teenager; he served as the site's head",
+                "timestamp": "2024-01-03T18:57:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Pepe the Frog",
+                "pageid": 49002118,
+                "size": 80165,
+                "wordcount": 6547,
+                "snippet": "such as Myspace, Gaia Online, and <span class=\"searchmatch\">4chan</span> in 2008. By 2015, he had become one of the most popular memes used on <span class=\"searchmatch\">4chan</span> and Tumblr. Different types of Pepe",
+                "timestamp": "2023-12-22T23:28:41Z"
+            },
+            {
+                "ns": 0,
+                "title": "Imageboard",
+                "pageid": 18985311,
+                "size": 24387,
+                "wordcount": 2366,
+                "snippet": "from trains to current news. The most popular English language imageboard, <span class=\"searchmatch\">4chan</span>, similarly has a large variety of topics. Imageboards are also different",
+                "timestamp": "2023-12-20T13:08:44Z"
+            },
+            {
+                "ns": 0,
+                "title": "Hiroyuki Nishimura",
+                "pageid": 217798,
+                "size": 28458,
+                "wordcount": 2832,
+                "snippet": "accessed Japanese message board, 2channel, and current administrator of <span class=\"searchmatch\">4chan</span>. He is also a self-help author and TV personality.: PT38  He is often known",
+                "timestamp": "2023-12-15T05:02:32Z"
+            },
+            {
+                "ns": 0,
+                "title": "/b/",
+                "pageid": 61171989,
+                "size": 14116,
+                "wordcount": 1326,
+                "snippet": "/b/, also called random, is an anonymous imageboard on <span class=\"searchmatch\">4chan</span>. It was the first board created during the establishment of the platform in 2003, and it",
+                "timestamp": "2023-12-30T02:38:35Z"
+            },
+            {
+                "ns": 0,
+                "title": "2chan",
+                "pageid": 509815,
+                "size": 2483,
+                "wordcount": 374,
+                "snippet": "fork of <span class=\"searchmatch\">4chan</span>, created by American software developer Fredrick Brennan and currently owned by Jim Watkins 420chan, an imageboard based on <span class=\"searchmatch\">4chan</span> and dedicated",
+                "timestamp": "2023-12-14T18:47:38Z"
+            },
+            {
+                "ns": 0,
+                "title": "Wojak",
+                "pageid": 58818336,
+                "size": 20088,
+                "wordcount": 1878,
+                "snippet": "image aggregation website. The meme subsequently grew in popularity on <span class=\"searchmatch\">4chan</span>, where the character became associated with the phrases formerly used by",
+                "timestamp": "2024-01-05T09:18:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Kill All Normies",
+                "pageid": 58996995,
+                "size": 9714,
+                "wordcount": 915,
+                "snippet": "Kill All Normies: Online Culture Wars from <span class=\"searchmatch\">4chan</span> and Tumblr to Trump and the Alt-Right is a 2017 non-fiction book by Angela Nagle published by Zero Books",
+                "timestamp": "2024-01-03T04:44:09Z"
+            }
+        ]
+    }
+}

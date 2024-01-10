@@ -1,3 +1,478 @@
 {
-  "need": "one sample result with multiple wiki cards"
+    "parse": {
+        "title": "Rush Limbaugh",
+        "pageid": 25427,
+        "revid": 1193463882,
+        "text": {
+            "*": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><h3><span class=\"mw-headline\" id=\"Abortion\">Abortion</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Rush_Limbaugh&amp;action=edit&amp;section=1\" title=\"Edit section: Abortion\"><span>edit</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>For two weeks in 1989, on his Sacramento radio show, Limbaugh performed \"caller <a href=\"/wiki/Abortion\" title=\"Abortion\">abortions</a>\" where he would end a call suddenly to the sounds of a <a href=\"/wiki/Vacuum_cleaner\" title=\"Vacuum cleaner\">vacuum cleaner</a> and a scream. He would then deny that he had \"hung up\" on the caller, which he had promised not to do. Limbaugh claims that he used this gag to illustrate \"the tragedy of abortion\" as well as to highlight the question of whether abortion constitutes murder.<sup id=\"cite_ref-Limbaugh_waythings_1-0\" class=\"reference\"><a href=\"#cite_note-Limbaugh_waythings-1\">&#91;1&#93;</a></sup>\n</p>\n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-Limbaugh_waythings-1\"><span class=\"mw-cite-backlink\"><b><a href=\"#cite_ref-Limbaugh_waythings_1-0\">^</a></b></span> <span class=\"reference-text\"><style data-mw-deduplicate=\"TemplateStyles:r1133582631\">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:\"\\\"\"\"\\\"\"\"'\"\"'\"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url(\"//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url(\"//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url(\"//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url(\"//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg\")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id=\"CITEREFLimbaugh1990\" class=\"citation news cs1\">Limbaugh, Rush (December 16, 1990). \"The Way things Ought To Be\". New York City: <a href=\"/wiki/Simon_and_Schuster\" class=\"mw-redirect\" title=\"Simon and Schuster\">Simon and Schuster</a>. pp.&#160;62–66.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Way+things+Ought+To+Be&amp;rft.pages=62-66&amp;rft.date=1990-12-16&amp;rft.aulast=Limbaugh&amp;rft.aufirst=Rush&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARush+Limbaugh\" class=\"Z3988\"></span><sup class=\"noprint Inline-Template\" style=\"white-space:nowrap;\">&#91;<i><a href=\"/wiki/Wikipedia:Citing_sources#What_information_to_include\" title=\"Wikipedia:Citing sources\"><span title=\"A complete citation is needed. (October 2021)\">full citation needed</span></a></i>&#93;</sup></span>\n</li>\n</ol></div>\n<!-- \nNewPP limit report\nParsed by mw1448\nCached time: 20240107020202\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1, vary‐revision‐exists]\nCPU time usage: 0.105 seconds\nReal time usage: 0.138 seconds\nPreprocessor visited node count: 160/1000000\nPost‐expand include size: 2924/2097152 bytes\nTemplate argument size: 512/2097152 bytes\nHighest expansion depth: 12/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1752/5000000 bytes\nLua time usage: 0.074/10.000 seconds\nLua memory usage: 2513882/52428800 bytes\nNumber of Wikibase entities loaded: 0/400\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  126.397      1 -total\n 69.19%   87.455      1 Template:Cite_news\n 30.72%   38.824      1 Template:Full_citation_needed\n 26.77%   33.838      1 Template:Fix\n 17.24%   21.793      1 Template:Category_handler\n  4.71%    5.959      1 Template:Delink\n  1.95%    2.469      1 Template:Fix/category\n-->\n</div>"
+        },
+        "langlinks": [
+            {
+                "lang": "af",
+                "url": "https://af.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Afrikaans",
+                "autonym": "Afrikaans",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "ar",
+                "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B4_%D9%84%D9%8A%D9%85%D8%A8%D9%88",
+                "langname": "Arabic",
+                "autonym": "العربية",
+                "*": "راش ليمبو"
+            },
+            {
+                "lang": "azb",
+                "url": "https://azb.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B4_%D9%84%DB%8C%D9%85%D8%A8%D9%88",
+                "langname": "South Azerbaijani",
+                "autonym": "تۆرکجه",
+                "*": "راش لیمبو"
+            },
+            {
+                "lang": "cs",
+                "url": "https://cs.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Czech",
+                "autonym": "čeština",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "da",
+                "url": "https://da.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Danish",
+                "autonym": "dansk",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "de",
+                "url": "https://de.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "German",
+                "autonym": "Deutsch",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "et",
+                "url": "https://et.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Estonian",
+                "autonym": "eesti",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "es",
+                "url": "https://es.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Spanish",
+                "autonym": "español",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "eo",
+                "url": "https://eo.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Esperanto",
+                "autonym": "Esperanto",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "fa",
+                "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B4_%D9%84%DB%8C%D9%85%D8%A8%D9%88",
+                "langname": "Persian",
+                "autonym": "فارسی",
+                "*": "راش لیمبو"
+            },
+            {
+                "lang": "fr",
+                "url": "https://fr.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "French",
+                "autonym": "français",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "fy",
+                "url": "https://fy.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Western Frisian",
+                "autonym": "Frysk",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "ko",
+                "url": "https://ko.wikipedia.org/wiki/%EB%9F%AC%EC%8B%9C_%EB%A6%BC%EB%B3%B4",
+                "langname": "Korean",
+                "autonym": "한국어",
+                "*": "러시 림보"
+            },
+            {
+                "lang": "hy",
+                "url": "https://hy.wikipedia.org/wiki/%D5%8C%D5%A1%D5%B7_%D4%BC%D5%AB%D5%B4%D5%A2%D5%B8",
+                "langname": "Armenian",
+                "autonym": "հայերեն",
+                "*": "Ռաշ Լիմբո"
+            },
+            {
+                "lang": "id",
+                "url": "https://id.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Indonesian",
+                "autonym": "Bahasa Indonesia",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "is",
+                "url": "https://is.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Icelandic",
+                "autonym": "íslenska",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "it",
+                "url": "https://it.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Italian",
+                "autonym": "italiano",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "he",
+                "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%90%D7%A9_%D7%9C%D7%99%D7%9E%D7%91%D7%95",
+                "langname": "Hebrew",
+                "autonym": "עברית",
+                "*": "ראש לימבו"
+            },
+            {
+                "lang": "lv",
+                "url": "https://lv.wikipedia.org/wiki/Ra%C5%A1s_Limbo",
+                "langname": "Latvian",
+                "autonym": "latviešu",
+                "*": "Rašs Limbo"
+            },
+            {
+                "lang": "hu",
+                "url": "https://hu.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Hungarian",
+                "autonym": "magyar",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "arz",
+                "url": "https://arz.wikipedia.org/wiki/%D8%B1%D9%88%D8%B4_%D9%84%D9%8A%D9%85%D8%A8%D8%A7%D9%88%D8%AC",
+                "langname": "Egyptian Arabic",
+                "autonym": "مصرى",
+                "*": "روش ليمباوج"
+            },
+            {
+                "lang": "nl",
+                "url": "https://nl.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Dutch",
+                "autonym": "Nederlands",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "ja",
+                "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%AA%E3%83%B3%E3%83%9C%E3%83%BC",
+                "langname": "Japanese",
+                "autonym": "日本語",
+                "*": "ラッシュ・リンボー"
+            },
+            {
+                "lang": "no",
+                "url": "https://no.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Norwegian",
+                "autonym": "norsk",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "pl",
+                "url": "https://pl.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Polish",
+                "autonym": "polski",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "pt",
+                "url": "https://pt.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Portuguese",
+                "autonym": "português",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "ro",
+                "url": "https://ro.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Romanian",
+                "autonym": "română",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "ru",
+                "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BC%D0%B1%D0%BE,_%D0%A0%D0%B0%D1%88",
+                "langname": "Russian",
+                "autonym": "русский",
+                "*": "Лимбо, Раш"
+            },
+            {
+                "lang": "simple",
+                "url": "https://simple.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Simple English",
+                "autonym": "Simple English",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "sr",
+                "url": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88_%D0%9B%D0%B8%D0%BC%D0%B1%D0%BE",
+                "langname": "Serbian",
+                "autonym": "српски / srpski",
+                "*": "Раш Лимбо"
+            },
+            {
+                "lang": "sh",
+                "url": "https://sh.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Serbo-Croatian",
+                "autonym": "srpskohrvatski / српскохрватски",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "fi",
+                "url": "https://fi.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Finnish",
+                "autonym": "suomi",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "sv",
+                "url": "https://sv.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Swedish",
+                "autonym": "svenska",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "tr",
+                "url": "https://tr.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Turkish",
+                "autonym": "Türkçe",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "uk",
+                "url": "https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88_%D0%9B%D1%96%D0%BC%D0%B1%D0%BE",
+                "langname": "Ukrainian",
+                "autonym": "українська",
+                "*": "Раш Лімбо"
+            },
+            {
+                "lang": "yi",
+                "url": "https://yi.wikipedia.org/wiki/%D7%A8%D7%90%D7%A9_%D7%9C%D7%99%D7%9E%D7%91%D7%90%D7%95",
+                "langname": "Yiddish",
+                "autonym": "ייִדיש",
+                "*": "ראש לימבאו"
+            },
+            {
+                "lang": "zh-yue",
+                "url": "https://zh-yue.wikipedia.org/wiki/Rush_Limbaugh",
+                "langname": "Cantonese",
+                "autonym": "粵語",
+                "*": "Rush Limbaugh"
+            },
+            {
+                "lang": "zh",
+                "url": "https://zh.wikipedia.org/wiki/%E6%8B%89%E4%BB%80%C2%B7%E6%9E%97%E5%8D%9A",
+                "langname": "Chinese",
+                "autonym": "中文",
+                "*": "拉什·林博"
+            }
+        ],
+        "categories": [
+            {
+                "sortkey": "",
+                "hidden": "",
+                "*": "All_articles_with_incomplete_citations"
+            },
+            {
+                "sortkey": "",
+                "hidden": "",
+                "*": "Articles_with_incomplete_citations_from_October_2021"
+            }
+        ],
+        "links": [
+            {
+                "ns": 14,
+                "exists": "",
+                "*": "Category:Articles with incomplete citations from October 2021"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Abortion"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Simon and Schuster"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Vacuum cleaner"
+            },
+            {
+                "ns": 4,
+                "exists": "",
+                "*": "Wikipedia:Citing sources"
+            }
+        ],
+        "templates": [
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Cite news"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Full citation needed"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Fix"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Category handler"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Fix/category"
+            },
+            {
+                "ns": 10,
+                "exists": "",
+                "*": "Template:Delink"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/Configuration"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/Whitelist"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/Utilities"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/Date validation"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/Identifiers"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/COinS"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Citation/CS1/styles.css"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Unsubst"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Category handler"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Yesno"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Category handler/data"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Category handler/config"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Category handler/shared"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Category handler/blacklist"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Namespace detect/data"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Namespace detect/config"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Arguments"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:String"
+            },
+            {
+                "ns": 828,
+                "exists": "",
+                "*": "Module:Delink"
+            },
+            {
+                "ns": 0,
+                "exists": "",
+                "*": "Rush Limbaugh"
+            }
+        ],
+        "images": [],
+        "externallinks": [],
+        "sections": [
+            {
+                "toclevel": 1,
+                "level": "3",
+                "line": "Abortion",
+                "number": "1",
+                "index": "1",
+                "fromtitle": "Rush_Limbaugh",
+                "byteoffset": 0,
+                "anchor": "Abortion",
+                "linkAnchor": "Abortion"
+            }
+        ],
+        "parsewarnings": [],
+        "displaytitle": "<span class=\"mw-page-title-main\">Rush Limbaugh</span>",
+        "iwlinks": [],
+        "properties": [
+            {
+                "name": "wikibase_item",
+                "*": "Q319072"
+            }
+        ]
+    }
 }
