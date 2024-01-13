@@ -16,7 +16,7 @@ root.render(
         domain={domain}
         clientId={clientId}
         authorizationParams={{
-          redirect_uri: "http://localhost:3000/"
+          redirect_uri: "https://m3-h8r-aid.vercel.app/"
         }}
       >
         <App />
